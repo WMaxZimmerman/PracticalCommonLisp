@@ -1,0 +1,9 @@
+* Links
+** [[http://www.gigamonkeys.com/book/][Book]]
+** [[https://portacle.github.io/#get-win][Portacle]]
+* Things I want to try for emacs config
+** compile-file
+When loading in custom configurations for emacs it would be nice if I checked for a compiled file. Then, if one exists 
+load that file. Otherwise, compile one and load the compiled file.
+** db example
+The db example for cds might be a fun way to store packages that i am using.
