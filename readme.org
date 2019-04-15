@@ -1,2 +1,6 @@
-# PracticalCommonLisp
+*PracticalCommonLisp*
 A repository to hold files while I go through the book "Practical Common Lisp"
+
+* Links
+** [[http://www.gigamonkeys.com/book/][Practical Common Lisp]]
+** [[https://www.reddit.com/r/lisp/comments/bavxir/what_are_good_resources_to_start_learning_lisp/][Reddit Thread]]
